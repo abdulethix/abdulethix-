@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTMLand CSS
 -  I learned Git and Github mid HTML and CSS
-- 📫 How to reach me abdev214@gmail.com
+- 📫 How to reach me abdulethix@gmail.com
 
 <!---
 A-b-d-e-v/A-b-d-e-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
